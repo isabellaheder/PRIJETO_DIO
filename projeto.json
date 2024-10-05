@@ -1,0 +1,37 @@
+{
+   "aula DIO":{
+      "nome da aula":"Introdução ao Step Functions",
+      "objetivos":[
+         "Compreender o conceito de orquestração de serviços da AWS",
+         "Aprender a criar e gerenciar fluxos de trabalho",
+         "Enteder o exemplo prático de Hello World e tentar reproduzir no problema do app de delivery"
+      ],
+      "conteúdo":[
+         {
+            "seção":"o que são Step Functions?",
+            "aprendizado":"definição e a importância na orquestração de serviços"
+         },
+         {
+            "seção":"casos de uso",
+            "aprendizado":"cenários reais onde o Step Functions pode ser aplicado"
+         },
+         {
+            "seção":"como funciona?",
+            "aprendizado":"visão geral do funcionamento interno e dos estados"
+         },
+         {
+            "seção":"precificação",
+            "aprendizado":"pesquisa dos serviços da AWS para adquirir a noção dos preços de cada utilização"
+         },
+         {
+            "seção":"Hello World",
+            "aprendizado":"passo a passo para criar um simples caso de Hello World no Step Functions"
+         }
+      ],
+      "atividades":[
+         {
+            "descrição":"criar um fluxo de trabalho simples para app de delivery"
+         }
+      ]
+   }
+}
